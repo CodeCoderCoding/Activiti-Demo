@@ -1,3 +1,3 @@
 ## Activiti-Demo
 
-Some small demos of use of Activiti
+Some small demos of use of Activiti6
