@@ -11,6 +11,7 @@
     <modules>
         <module>Ask-Off-Simple</module>
         <module>Activiti-Configuration/Process-Engine-Configuration/From-Resource-Default</module>
+        <module>Activiti-Service/Identity-Service</module>
     </modules>
 
     <properties>
