@@ -1,7 +1,5 @@
 package com.supremepole.activitispringbootbasic;
 
-import org.activiti.engine.ProcessEngine;
-import org.activiti.engine.ProcessEngineConfiguration;
 import org.activiti.engine.RuntimeService;
 import org.activiti.spring.boot.SecurityAutoConfiguration;
 import org.springframework.boot.CommandLineRunner;
